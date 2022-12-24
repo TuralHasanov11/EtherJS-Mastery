@@ -1,14 +1,25 @@
 {
   "name": "ethers_examples",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learn how to use ethers.js from these examples",
   "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dappuniversity/ethers_examples.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dappuniversity/ethers_examples/issues"
+  },
+  "homepage": "https://github.com/dappuniversity/ethers_examples#readme",
   "dependencies": {
-    "ethers": "^5.5.4"
+    "ethers": "^5.7.2"
   }
 }
